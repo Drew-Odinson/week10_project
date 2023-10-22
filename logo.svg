@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+        <rect x="75" y="45" width="150" height="150" fill="black" />
+        <text x="150" y="110" font-size="25px" fill="green" text-anchor="middle">OCD</text>
+        </svg>
